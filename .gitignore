@@ -106,3 +106,4 @@ venv.bak/
 # Added by me: 
 .DS_Store
 data/
+.gitattributes
